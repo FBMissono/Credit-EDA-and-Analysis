@@ -1,1 +1,1 @@
-Credit EDA anda Analysis
+Exploração e Análise de Banco de Dados de Crédito Bancário.
